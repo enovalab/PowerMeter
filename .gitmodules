@@ -1,0 +1,9 @@
+[submodule "PowerMeter-OverviewApp"]
+	path = PowerMeter-OverviewApp
+	url = https://github.com/enovalab/PowerMeter-OverviewApp.git
+[submodule "PowerMeter-Firmware"]
+	path = PowerMeter-Firmware
+	url = https://github.com/enovalab/PowerMeter-Firmware.git
+[submodule "PowerMeter-DeviceApp"]
+	path = PowerMeter-DeviceApp
+	url = https://github.com/enovalab/PowerMeter-DeviceApp.git
